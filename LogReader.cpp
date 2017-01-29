@@ -12,7 +12,7 @@ using namespace std;
 	Continually reads from the log file until program is closed.
 	
 	LogReader v1.0
-	Written by redbull
+	Written by Shane
 */
 
 int main(int argc, char *argv[])
